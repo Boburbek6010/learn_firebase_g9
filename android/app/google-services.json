@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443964278333",
+    "project_id": "g9-learn",
+    "storage_bucket": "g9-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443964278333:android:f2099d11ce6fbd4e5f8c54",
+        "android_client_info": {
+          "package_name": "com.pdp.learn.learn_firebase_g9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgx8uK5oQeTqc21u_i_VudSk7DbGoqYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
